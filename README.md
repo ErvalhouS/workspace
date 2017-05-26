@@ -26,4 +26,4 @@ cp -i .zshrc ~/.zhsrc
 cp -i z.sh ~/z.sh
 ```
 
-For beautifulness on terminal install font on your computer "SourceCodePro+Powerline+Awesome Regular"
+For beautifulness on terminal install the "SourceCodePro+Powerline+Awesome Regular" font on your computer
