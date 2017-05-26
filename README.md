@@ -25,3 +25,5 @@ Then copy easy browsing with "z" command and ZSH customizations:
 cp -i .zshrc ~/.zhsrc
 cp -i z.sh ~/z.sh
 ```
+
+For beautifulness on terminal install font on your computer "SourceCodePro+Powerline+Awesome Regular"
