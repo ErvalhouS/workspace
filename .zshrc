@@ -140,3 +140,8 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source  ~/powerlevel9k/powerlevel9k.zsh-theme
 . ~/z.sh
+export PATH="$PATH:/mnt/c/Program\ Files/Docker/Docker/resources/bin"
+export DOCKER_HOST='tcp://0.0.0.0:2375'
+export PGHOST="127.0.0.1"
+export PGUSER="postgres"
+unsetopt BG_NICE
